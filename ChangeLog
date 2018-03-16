@@ -1,0 +1,15 @@
+2018-03-16 1.0.1 Leonie Philine Bitto <leonie@netcreators.nl>
+        * Make nc_imagecaption_position TYPO3 8.7 compatible.
+	* Add field to the correct palette.
+
+2017-04-02 1.0.0 Leonie Philine Bitto <leonie@netcreators.nl>
+	* Created this extension to use EXT:css_styled_content with Image Caption Alignment on TYPO3 7.6 LTS,
+		without having to fall back onto EXT:compatibility6.
+
+		Note:
+			tt_content.imagecaption_position is a TYPO3 7 EXT:css_styled_content feature.
+			The core team made a mistake by moving it into EXT:compatibility6.
+			The field should instead have been moved / be moved into EXT:css_styled_content.
+
+		https://github.com/FriendsOfTYPO3/compatibility6/issues/11
+        https://forge.typo3.org/issues/80609

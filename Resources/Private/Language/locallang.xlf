@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+	<file t3:id="1446137224" source-language="en" datatype="plaintext" original="messages" date="2015-10-29T17:46:32Z" product-name="compatibility6">
+		<header/>
+		<body>
+			<trans-unit id="LGL.default_value">
+				<source>Default</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
